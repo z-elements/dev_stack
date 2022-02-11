@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641639842459",
+    "project_id": "loginappv2-b57fd",
+    "storage_bucket": "loginappv2-b57fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641639842459:android:2961a0ad101707a4d7bc3e",
+        "android_client_info": {
+          "package_name": "com.example.loginappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641639842459-vg9m8a14bdd2voqkhhoo4anm3fes8kqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginappv2",
+            "certificate_hash": "4c08c246c08a45ea741ba49dd30901ce77d68f02"
+          }
+        },
+        {
+          "client_id": "641639842459-3t953ek2t8npprp0t6qnnebugcccpdpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO6ftZ1kJgmeHhj-HK2waxYTZ_yZVDVPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641639842459-3t953ek2t8npprp0t6qnnebugcccpdpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
